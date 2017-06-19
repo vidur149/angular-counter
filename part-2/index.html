@@ -10,9 +10,13 @@
 </head>
 
 <body ng-controller="myCtrl">
-    <div ng-click="increment()" class="inc">
-        <h1>{{ counter }}</h1>
-        <h3>click me to change value</h3>
+    <div class="inc std-container">
+        <h1 class="counter">{{ counter }}</h1>
+        <div class="btn-container std-container">
+            <h3 ng-click="increment()" class="inc-btn std-btn">click me to increment</h3>
+            <h3 ng-click="increment()" class="dec-btn std-btn">click me to decrement</h3>
+            <h3 ng-click="increment()" class="resest-btn std-btn">click me to reset</h3>
+        </div>
     </div>
 </body>
 

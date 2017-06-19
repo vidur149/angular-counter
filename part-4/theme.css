@@ -16,10 +16,6 @@ body {
     font-size: x-large;
 }
 
-.inc {
-    background-color: skyblue
-}
-
 .btn-container {
     display: flex;
     flex-direction: row;
@@ -34,6 +30,6 @@ body {
     border-radius: 37px;
 }
 
-.counter {
+.timer {
     margin-top: 10%;
 }
