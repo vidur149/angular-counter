@@ -1,4 +1,4 @@
-# Angular Counter Application
+# Stopwatch and Weather Angular Application
 
 In this tutorial you will step-by-step learn to build a multifunctional updates app. The final app will include a stop-watch and will dispaly the local weather.The final app will look like [this]()  
 
