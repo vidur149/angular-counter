@@ -1,6 +1,6 @@
 # Stopwatch Angular Application
 
-In this tutorial you will step-by-step learn to build a multifunctional updates app. The final app will include a stop-watch and will dispaly the local weather.The final app will look like [this](https://vidur149.github.io/angular/weather_stopwatch/)  
+In this tutorial you will step-by-step learn to build a stopwatch app. The final app will include a stop-watch.The final app will look like [this](https://vidur149.github.io/angular/weather_stopwatch/)  
 
 ## How to begin?
 
